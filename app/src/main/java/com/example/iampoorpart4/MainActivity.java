@@ -3,7 +3,7 @@ NAME:
 DATE:
 ASSIGNMENT: I AM POOR PART 4
  */
-
+// test
 /*
 ASSIGNMENT: I AM POOR PART 4
 -convert the component tree to CONSTRAINT LAYOUT (NOTE: Do not use Linear Layout for this assignment)
@@ -11,8 +11,8 @@ ASSIGNMENT: I AM POOR PART 4
     -Do NOT add a EditText component
     -the TextView will now say "Are you rich or poor?"
     -the button will now say "check"
-    -when the button is pressed, it will bring up a dialog box alert
         -add a method call in the button event listener
+    -when the button is pressed, it will bring up a dialog box alert
     -add a dialog box alert to your app
         -the dialog box will ask the user "how many gold bars do you own?"
         -the dialog box will have two options, "OK" and "Cancel"
